@@ -356,7 +356,7 @@ if __name__ == "__main__":
 #Consigna:
 #[x] Crear un programa que permita el modelamiento de Clientes en una página de compras con POO y aprendido en Clase.
 #[x] Uso correcto de atributos y métodos.
-#[] Crea un paquete redistribuible con el programa creado. 
+#[x] Crea un paquete redistribuible con el programa creado. 
 #[x] Se debe entregar todo el programa.
 #
 #  
@@ -365,7 +365,7 @@ if __name__ == "__main__":
 #[x] Atributos de instancia (opcional alguno de clase)
 #[x] Métodos (por fuera de los magic methods)
 #[x] Uso de módulos/paquetes
-#[] Generación de paquete redistribuible
+#[x] Generación de paquete redistribuible
 # 
 # 
 #Recomendaciones:
@@ -373,11 +373,11 @@ if __name__ == "__main__":
 #[x] Se debe utilizar el método __init__, para definir uno o más de los atributos del punto anterior.
 #[x] Se debe utilizar el método __str__() para darle nombre a los objetos.
 #[x] Aparte, genera 2 métodos por fuera de los magic methods.
-#[] Para crear el paquete distribuible también como adicional el archivo de la Pre entrega #1.
+#[x] Para crear el paquete distribuible también como adicional el archivo de la Pre entrega #1.
 # 
 # 
 #Formato:
-#[] El proyecto debe ser un archivo comprimido del paquete. Formatos aceptados: .zip o .tar.gz
+#[x] El proyecto debe ser un archivo comprimido del paquete. Formatos aceptados: .zip o .tar.gz
 #    bajo el nombre“TuModeloDeClientes+Apellido”
 # 
 #Contenidos adicionales: Estos contenidos adicionales no se incluyen en los criterios de evaluación,

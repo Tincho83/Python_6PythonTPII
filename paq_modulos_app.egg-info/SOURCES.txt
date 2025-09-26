@@ -1,0 +1,9 @@
+setup.py
+paq_modulos_app/__init__.py
+paq_modulos_app/modcliente.py
+paq_modulos_app/modpersistencia.py
+paq_modulos_app/modusuario.py
+paq_modulos_app.egg-info/PKG-INFO
+paq_modulos_app.egg-info/SOURCES.txt
+paq_modulos_app.egg-info/dependency_links.txt
+paq_modulos_app.egg-info/top_level.txt
