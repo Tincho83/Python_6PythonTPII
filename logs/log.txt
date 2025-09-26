@@ -1,0 +1,136 @@
+25/09/2025 15:53:01: * Aplicacion: Inicio.
+25/09/2025 15:53:01: ***** Archivo log: C:\Proyectos\6_Python\CursoPython\C8_TPII_ModeloDeClientes+HernandezMartinv7d/log.txt.
+25/09/2025 15:53:01: ***** Limpiando Pantalla.
+25/09/2025 15:53:01: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:01: ***** Mostrando Menu Principal.
+25/09/2025 15:53:01: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:07: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:53:07: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:07: ***** Mostrando Menu Principal.
+25/09/2025 15:53:07: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:11: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:53:11: ***** Mostrar Datos.
+25/09/2025 15:53:11: No se encontraron clientes en el archivo JSON.
+25/09/2025 15:53:11: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:11: ***** Mostrando Menu Principal.
+25/09/2025 15:53:11: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:14: ************ Menu, Opcion #2 elegida.
+25/09/2025 15:53:14: ***** Creando Solo Cliente.
+25/09/2025 15:53:14: ***** Cliente Diego guardado en clientescompras.json
+25/09/2025 15:53:14: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:14: ***** Mostrando Menu Principal.
+25/09/2025 15:53:14: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:22: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:53:22: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:22: ***** Mostrando Menu Principal.
+25/09/2025 15:53:22: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:26: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:53:26: ***** Mostrar Datos.
+25/09/2025 15:53:26: ***** Listado de clientes registrados.
+25/09/2025 15:53:26: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:26: ***** Mostrando Menu Principal.
+25/09/2025 15:53:26: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:34: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:53:34: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:34: ***** Mostrando Menu Principal.
+25/09/2025 15:53:34: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:38: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:53:38: ***** Mostrar Datos.
+25/09/2025 15:53:38: ***** Listado de clientes registrados.
+25/09/2025 15:53:38: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:38: ***** Mostrando Menu Principal.
+25/09/2025 15:53:38: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:40: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:53:40: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:40: ***** Mostrando Menu Principal.
+25/09/2025 15:53:40: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:42: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:53:42: ***** Mostrar Datos.
+25/09/2025 15:53:42: ***** Listado de clientes registrados.
+25/09/2025 15:53:42: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:42: ***** Mostrando Menu Principal.
+25/09/2025 15:53:42: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:48: ************ Menu, Opcion #3 elegida.
+25/09/2025 15:53:48: ***** Creando Cliente para generar compra.
+25/09/2025 15:53:48: ***** Cliente Marcos guardado en clientescompras.json
+25/09/2025 15:53:48: *** Creando Compra.
+25/09/2025 15:53:48: *** Creando Compra.
+25/09/2025 15:53:48: ***** Compra [{'producto': 'Laptop', 'negocio': 'Negociotres', 'precio': 350.0, 'fecha': '25/09/2025'}, {'producto': 'Perfume', 'negocio': 'TiendaUno', 'precio': 210.0, 'fecha': '25/09/2025'}] para Marcos guardada en clientescompras.json
+25/09/2025 15:53:48: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:48: ***** Mostrando Menu Principal.
+25/09/2025 15:53:48: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:55: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:53:55: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:55: ***** Mostrando Menu Principal.
+25/09/2025 15:53:55: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:53:58: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:53:58: ***** Mostrar Datos.
+25/09/2025 15:53:58: ***** Listado de clientes registrados.
+25/09/2025 15:53:58: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:53:58: ***** Mostrando Menu Principal.
+25/09/2025 15:53:58: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:00: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:54:00: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:00: ***** Mostrando Menu Principal.
+25/09/2025 15:54:00: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:11: ************ Menu, Opcion #4 elegida.
+25/09/2025 15:54:11: ***** Creando Cliente.
+25/09/2025 15:54:11: ***** Ingresando Categorias de Interes a Norma.
+25/09/2025 15:54:11: ***** Cliente Norma guardado en clientescompras.json
+25/09/2025 15:54:11: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:11: ***** Mostrando Menu Principal.
+25/09/2025 15:54:11: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:14: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:54:14: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:14: ***** Mostrando Menu Principal.
+25/09/2025 15:54:14: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:16: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:54:16: ***** Mostrar Datos.
+25/09/2025 15:54:16: ***** Listado de clientes registrados.
+25/09/2025 15:54:16: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:16: ***** Mostrando Menu Principal.
+25/09/2025 15:54:16: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:22: ************ Menu, Opcion #5 elegida.
+25/09/2025 15:54:22: ***** Creando Cliente.
+25/09/2025 15:54:22: ***** Creando Cliente.
+25/09/2025 15:54:22: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:22: ***** Mostrando Menu Principal.
+25/09/2025 15:54:22: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:32: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:54:32: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:32: ***** Mostrando Menu Principal.
+25/09/2025 15:54:32: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:34: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:54:34: ***** Mostrar Datos.
+25/09/2025 15:54:34: ***** Listado de clientes registrados.
+25/09/2025 15:54:34: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:34: ***** Mostrando Menu Principal.
+25/09/2025 15:54:34: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:43: ************ Menu, Opcion #6 elegida.
+25/09/2025 15:54:43: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:43: ***** Mostrando Menu Principal.
+25/09/2025 15:54:43: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:50: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:54:50: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:50: ***** Mostrando Menu Principal.
+25/09/2025 15:54:50: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:54:54: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:54:54: ***** Mostrar Datos.
+25/09/2025 15:54:54: ***** Listado de clientes registrados.
+25/09/2025 15:54:54: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:54:54: ***** Mostrando Menu Principal.
+25/09/2025 15:54:54: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:55:09: ************ Menu, Opcion #9 elegida.
+25/09/2025 15:55:09: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:55:09: ***** Mostrando Menu Principal.
+25/09/2025 15:55:09: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:55:12: ************ Menu, Opcion #8 elegida.
+25/09/2025 15:55:12: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:55:12: ***** Mostrando Menu Principal.
+25/09/2025 15:55:12: ********* Menu: Esperando Seleccion de Opciones.
+25/09/2025 15:55:15: ************ Menu, Opcion #7 elegida.
+25/09/2025 15:55:15: ***** Mostrar Datos.
+25/09/2025 15:55:15: ***** Listado de clientes registrados.
+25/09/2025 15:55:15: ***** Mostrando Cartel Sist Model Cli.
+25/09/2025 15:55:15: ***** Mostrando Menu Principal.
+25/09/2025 15:55:15: ********* Menu: Esperando Seleccion de Opciones.

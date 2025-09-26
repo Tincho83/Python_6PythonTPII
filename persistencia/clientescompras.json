@@ -1,0 +1,132 @@
+[
+    {
+        "nombre": "Diego",
+        "apellido": "Capomas",
+        "tipodoc": "DNI",
+        "nrodoc": 29032054,
+        "email": "diegoc@diego.com",
+        "edad": 43,
+        "domicilio": "Calle 3 Nro 96",
+        "intereses": [
+            "tecnologia",
+            "moda",
+            "farmacia"
+        ],
+        "historial_compras": [],
+        "saldo_credito": 0.0
+    },
+    {
+        "nombre": "Marcos",
+        "apellido": "Diago",
+        "tipodoc": "DNI",
+        "nrodoc": 19031443,
+        "email": "marcos@diago.com",
+        "edad": 54,
+        "domicilio": "Quiros Nro 9600",
+        "intereses": [
+            "tecnologia",
+            "cocina",
+            "juegos"
+        ],
+        "historial_compras": [
+            {
+                "producto": "Laptop",
+                "negocio": "Negociotres",
+                "precio": 350.0,
+                "fecha": "25/09/2025"
+            },
+            {
+                "producto": "Perfume",
+                "negocio": "TiendaUno",
+                "precio": 210.0,
+                "fecha": "25/09/2025"
+            }
+        ],
+        "saldo_credito": 0.0
+    },
+    {
+        "nombre": "Norma",
+        "apellido": "Maston",
+        "tipodoc": "DNI",
+        "nrodoc": 14658932,
+        "email": "norma@norma.com",
+        "edad": 32,
+        "domicilio": "Vidal Nro 350",
+        "intereses": [
+            "perfumes",
+            "bazar",
+            "cocina",
+            "hogar"
+        ],
+        "historial_compras": [],
+        "saldo_credito": 0.0
+    },
+    {
+        "nombre": "Ignacio",
+        "apellido": "Parrot",
+        "tipodoc": "DNI",
+        "nrodoc": 19650350,
+        "email": "ignacio@parrot.com",
+        "edad": 29,
+        "domicilio": "Misiones Nro 128",
+        "intereses": [],
+        "historial_compras": [],
+        "saldo_credito": 0.0
+    },
+    {
+        "nombre": "Ignacio",
+        "apellido": "Parrot",
+        "tipodoc": "DNI",
+        "nrodoc": 19650350,
+        "email": "ignacio@parrot.com",
+        "edad": 29,
+        "domicilio": "Misiones Nro 128",
+        "intereses": [],
+        "historial_compras": [],
+        "saldo_credito": 0.0
+    },
+    {
+        "nombre": "Martin",
+        "apellido": "Hernandez",
+        "tipodoc": "DNI",
+        "nrodoc": "12345678",
+        "email": "martin@mail.com",
+        "edad": 30,
+        "domicilio": "Av. Siempre Viva 123",
+        "intereses": [
+            "tecnologia",
+            "deportes"
+        ],
+        "historial_compras": [
+            {
+                "producto": "Laptop Gaming",
+                "negocio": "Tech Store",
+                "precio": 1350.0,
+                "fecha": "25/09/2025"
+            }
+        ],
+        "saldo_credito": 0.0
+    },
+    {
+        "nombre": "Martin",
+        "apellido": "Hernandez",
+        "tipodoc": "DNI",
+        "nrodoc": "12345678",
+        "email": "martin@mail.com",
+        "edad": 30,
+        "domicilio": "Av. Siempre Viva 123",
+        "intereses": [
+            "tecnologia",
+            "deportes"
+        ],
+        "historial_compras": [
+            {
+                "producto": "Laptop Gaming",
+                "negocio": "Tech Store",
+                "precio": 1350.0,
+                "fecha": "25/09/2025"
+            }
+        ],
+        "saldo_credito": 0.0
+    }
+]
